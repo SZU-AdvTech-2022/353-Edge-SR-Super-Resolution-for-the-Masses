@@ -1,4 +1,4 @@
-@article{REPO-354,
+@article{REPO-353,
     author = "Michelini, P. N. and Lu, Y. and Jiang, X.",
     title = "{Edge-SR: Super-Resolution for the Masses}",
     year = "2021"
